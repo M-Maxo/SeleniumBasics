@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7002" started-at="2021-04-03T19:12:26 EET" finished-at="2021-04-03T19:12:33 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7002" started-at="2021-04-03T19:12:26 EET" finished-at="2021-04-03T19:12:33 EET">
+      <class name="waits.Test">
+        <test-method status="PASS" signature="openURL()[pri:0, instance:waits.Test@4f063c0a]" name="openURL" is-config="true" duration-ms="4805" started-at="2021-04-03T19:12:26 EET" finished-at="2021-04-03T19:12:31 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="findElementById()[pri:0, instance:waits.Test@4f063c0a]" name="findElementById" duration-ms="2147" started-at="2021-04-03T19:12:31 EET" finished-at="2021-04-03T19:12:33 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findElementById -->
+      </class> <!-- waits.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
